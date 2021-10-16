@@ -1,9 +1,9 @@
 
 {
-    "title": "이클립스 한글 짤림 해결",
+    "title": "이클립스 한글 짤림 해결 v1.01",
     "rules": [
         {
-            "description": "이클립스 한글 짤림 해결",
+            "description": "이클립스 한글 짤림 해결 v1.01",
             "manipulators": [
                 {
                     "type": "basic",
@@ -31,6 +31,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         }
@@ -81,6 +85,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         }
@@ -131,6 +139,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         }
@@ -181,6 +193,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         }
@@ -231,6 +247,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         }
@@ -281,6 +301,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         }
@@ -331,6 +355,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         }
@@ -381,6 +409,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         }
@@ -431,6 +463,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         }
@@ -481,6 +517,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         }
@@ -531,6 +571,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         }
@@ -581,6 +625,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         }
@@ -631,6 +679,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         }
@@ -681,6 +733,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         }
@@ -731,6 +787,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         }
@@ -781,6 +841,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         }
@@ -831,6 +895,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         }
@@ -881,6 +949,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         }
@@ -931,6 +1003,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         }
@@ -981,6 +1057,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         }
@@ -1031,6 +1111,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         }
@@ -1081,6 +1165,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         }
@@ -1131,6 +1219,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         }
@@ -1181,6 +1273,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         }
@@ -1231,6 +1327,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         }
@@ -1281,6 +1381,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         }
@@ -3510,494 +3614,6 @@
                 {
                     "type": "basic",
                     "from": {
-                        "key_code": "left_arrow",
-                        "modifiers": {
-                            "mandatory": ["shift"],
-                            "optional": ["any"]
-                        }
-                    },
-                    "conditions": [
-                        {
-                            "type": "frontmost_application_if",
-                            "bundle_identifiers": [
-                                "^org\\.eclipse\\.platform\\.ide$",
-                                "^org\\.jkiss\\.dbeaver\\.core\\.product$"
-                            ]
-                        },
-                        {
-                            "type": "input_source_if",
-                            "input_sources": [
-                                {
-                                    "language": "^ko$",
-                                    "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "variable_if",
-                            "name": "eclipse_kor_input",
-                            "value": 1
-                        }
-                    ],
-                    "to": [
-                        {
-                            "key_code": "escape"
-                        },
-                        {
-                            "sticky_modifier": {
-                                "left_shift": "toggle"
-                            }
-                        },
-                        {
-                            "key_code": "left_arrow"
-                        },
-                        {
-                            "set_variable": {
-                                "name": "eclipse_kor_input",
-                                "value": 0
-                            }
-                        }
-                    ],
-                    "parameters": {
-                        "basic.to_if_held_down_threshold_milliseconds": 200
-                    },
-                    "to_if_held_down": [
-                        {
-                            "sticky_modifier": {
-                                "left_shift": "toggle"
-                            }
-                        },
-                        {
-                            "key_code": "left_arrow"
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
-                        "key_code": "left_arrow",
-                        "modifiers": {
-                            "optional": ["any"]
-                        }
-                    },
-                    "conditions": [
-                        {
-                            "type": "frontmost_application_if",
-                            "bundle_identifiers": [
-                                "^org\\.eclipse\\.platform\\.ide$",
-                                "^org\\.jkiss\\.dbeaver\\.core\\.product$"
-                            ]
-                        },
-                        {
-                            "type": "input_source_if",
-                            "input_sources": [
-                                {
-                                    "language": "^ko$",
-                                    "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "variable_if",
-                            "name": "eclipse_kor_input",
-                            "value": 1
-                        }
-                    ],
-                    "to": [
-                        {
-                            "key_code": "spacebar"
-                        },
-                        {
-                            "key_code": "delete_or_backspace"
-                        },
-                        {
-                            "key_code": "left_arrow"
-                        },
-                        {
-                            "set_variable": {
-                                "name": "eclipse_kor_input",
-                                "value": 0
-                            }
-                        }
-                    ],
-                    "parameters": {
-                        "basic.to_if_held_down_threshold_milliseconds": 200
-                    },
-                    "to_if_held_down": [
-                        {
-                            "key_code": "left_arrow"
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
-                        "key_code": "up_arrow",
-                        "modifiers": {
-                            "mandatory": ["shift"],
-                            "optional": ["any"]
-                        }
-                    },
-                    "conditions": [
-                        {
-                            "type": "frontmost_application_if",
-                            "bundle_identifiers": [
-                                "^org\\.eclipse\\.platform\\.ide$",
-                                "^org\\.jkiss\\.dbeaver\\.core\\.product$"
-                            ]
-                        },
-                        {
-                            "type": "input_source_if",
-                            "input_sources": [
-                                {
-                                    "language": "^ko$",
-                                    "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "variable_if",
-                            "name": "eclipse_kor_input",
-                            "value": 1
-                        }
-                    ],
-                    "to": [
-                        {
-                            "key_code": "escape"
-                        },
-                        {
-                            "sticky_modifier": {
-                                "left_shift": "toggle"
-                            }
-                        },
-                        {
-                            "key_code": "up_arrow"
-                        },
-                        {
-                            "set_variable": {
-                                "name": "eclipse_kor_input",
-                                "value": 0
-                            }
-                        }
-                    ],
-                    "parameters": {
-                        "basic.to_if_held_down_threshold_milliseconds": 200
-                    },
-                    "to_if_held_down": [
-                        {
-                            "sticky_modifier": {
-                                "left_shift": "toggle"
-                            }
-                        },
-                        {
-                            "key_code": "up_arrow"
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
-                        "key_code": "up_arrow",
-                        "modifiers": {
-                            "optional": ["any"]
-                        }
-                    },
-                    "conditions": [
-                        {
-                            "type": "frontmost_application_if",
-                            "bundle_identifiers": [
-                                "^org\\.eclipse\\.platform\\.ide$",
-                                "^org\\.jkiss\\.dbeaver\\.core\\.product$"
-                            ]
-                        },
-                        {
-                            "type": "input_source_if",
-                            "input_sources": [
-                                {
-                                    "language": "^ko$",
-                                    "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "variable_if",
-                            "name": "eclipse_kor_input",
-                            "value": 1
-                        }
-                    ],
-                    "to": [
-                        {
-                            "key_code": "spacebar"
-                        },
-                        {
-                            "key_code": "delete_or_backspace"
-                        },
-                        {
-                            "key_code": "up_arrow"
-                        },
-                        {
-                            "set_variable": {
-                                "name": "eclipse_kor_input",
-                                "value": 0
-                            }
-                        }
-                    ],
-                    "parameters": {
-                        "basic.to_if_held_down_threshold_milliseconds": 200
-                    },
-                    "to_if_held_down": [
-                        {
-                            "key_code": "up_arrow"
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
-                        "key_code": "right_arrow",
-                        "modifiers": {
-                            "mandatory": ["shift"],
-                            "optional": ["any"]
-                        }
-                    },
-                    "conditions": [
-                        {
-                            "type": "frontmost_application_if",
-                            "bundle_identifiers": [
-                                "^org\\.eclipse\\.platform\\.ide$",
-                                "^org\\.jkiss\\.dbeaver\\.core\\.product$"
-                            ]
-                        },
-                        {
-                            "type": "input_source_if",
-                            "input_sources": [
-                                {
-                                    "language": "^ko$",
-                                    "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "variable_if",
-                            "name": "eclipse_kor_input",
-                            "value": 1
-                        }
-                    ],
-                    "to": [
-                        {
-                            "key_code": "escape"
-                        },
-                        {
-                            "sticky_modifier": {
-                                "left_shift": "toggle"
-                            }
-                        },
-                        {
-                            "key_code": "right_arrow"
-                        },
-                        {
-                            "set_variable": {
-                                "name": "eclipse_kor_input",
-                                "value": 0
-                            }
-                        }
-                    ],
-                    "parameters": {
-                        "basic.to_if_held_down_threshold_milliseconds": 200
-                    },
-                    "to_if_held_down": [
-                        {
-                            "sticky_modifier": {
-                                "left_shift": "toggle"
-                            }
-                        },
-                        {
-                            "key_code": "right_arrow"
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
-                        "key_code": "right_arrow",
-                        "modifiers": {
-                            "optional": ["any"]
-                        }
-                    },
-                    "conditions": [
-                        {
-                            "type": "frontmost_application_if",
-                            "bundle_identifiers": [
-                                "^org\\.eclipse\\.platform\\.ide$",
-                                "^org\\.jkiss\\.dbeaver\\.core\\.product$"
-                            ]
-                        },
-                        {
-                            "type": "input_source_if",
-                            "input_sources": [
-                                {
-                                    "language": "^ko$",
-                                    "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "variable_if",
-                            "name": "eclipse_kor_input",
-                            "value": 1
-                        }
-                    ],
-                    "to": [
-                        {
-                            "key_code": "spacebar"
-                        },
-                        {
-                            "key_code": "delete_or_backspace"
-                        },
-                        {
-                            "key_code": "right_arrow"
-                        },
-                        {
-                            "set_variable": {
-                                "name": "eclipse_kor_input",
-                                "value": 0
-                            }
-                        }
-                    ],
-                    "parameters": {
-                        "basic.to_if_held_down_threshold_milliseconds": 200
-                    },
-                    "to_if_held_down": [
-                        {
-                            "key_code": "right_arrow"
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
-                        "key_code": "down_arrow",
-                        "modifiers": {
-                            "mandatory": ["shift"],
-                            "optional": ["any"]
-                        }
-                    },
-                    "conditions": [
-                        {
-                            "type": "frontmost_application_if",
-                            "bundle_identifiers": [
-                                "^org\\.eclipse\\.platform\\.ide$",
-                                "^org\\.jkiss\\.dbeaver\\.core\\.product$"
-                            ]
-                        },
-                        {
-                            "type": "input_source_if",
-                            "input_sources": [
-                                {
-                                    "language": "^ko$",
-                                    "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "variable_if",
-                            "name": "eclipse_kor_input",
-                            "value": 1
-                        }
-                    ],
-                    "to": [
-                        {
-                            "key_code": "escape"
-                        },
-                        {
-                            "sticky_modifier": {
-                                "left_shift": "toggle"
-                            }
-                        },
-                        {
-                            "key_code": "down_arrow"
-                        },
-                        {
-                            "set_variable": {
-                                "name": "eclipse_kor_input",
-                                "value": 0
-                            }
-                        }
-                    ],
-                    "parameters": {
-                        "basic.to_if_held_down_threshold_milliseconds": 200
-                    },
-                    "to_if_held_down": [
-                        {
-                            "sticky_modifier": {
-                                "left_shift": "toggle"
-                            }
-                        },
-                        {
-                            "key_code": "down_arrow"
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
-                        "key_code": "down_arrow",
-                        "modifiers": {
-                            "optional": ["any"]
-                        }
-                    },
-                    "conditions": [
-                        {
-                            "type": "frontmost_application_if",
-                            "bundle_identifiers": [
-                                "^org\\.eclipse\\.platform\\.ide$",
-                                "^org\\.jkiss\\.dbeaver\\.core\\.product$"
-                            ]
-                        },
-                        {
-                            "type": "input_source_if",
-                            "input_sources": [
-                                {
-                                    "language": "^ko$",
-                                    "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "variable_if",
-                            "name": "eclipse_kor_input",
-                            "value": 1
-                        }
-                    ],
-                    "to": [
-                        {
-                            "key_code": "spacebar"
-                        },
-                        {
-                            "key_code": "delete_or_backspace"
-                        },
-                        {
-                            "key_code": "down_arrow"
-                        },
-                        {
-                            "set_variable": {
-                                "name": "eclipse_kor_input",
-                                "value": 0
-                            }
-                        }
-                    ],
-                    "parameters": {
-                        "basic.to_if_held_down_threshold_milliseconds": 200
-                    },
-                    "to_if_held_down": [
-                        {
-                            "key_code": "down_arrow"
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
                         "key_code": "return_or_enter",
                         "modifiers": {
                             "mandatory": ["shift"],
@@ -4018,6 +3634,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         },
@@ -4029,7 +3649,10 @@
                     ],
                     "to": [
                         {
-                            "key_code": "escape"
+                            "key_code": "spacebar"
+                        },
+                        {
+                            "key_code": "delete_or_backspace"
                         },
                         {
                             "sticky_modifier": {
@@ -4077,6 +3700,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         },
@@ -4109,123 +3736,6 @@
                     "to_if_held_down": [
                         {
                             "key_code": "return_or_enter"
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
-                        "key_code": "delete_or_backspace",
-                        "modifiers": {
-                            "mandatory": ["shift"],
-                            "optional": ["any"]
-                        }
-                    },
-                    "conditions": [
-                        {
-                            "type": "frontmost_application_if",
-                            "bundle_identifiers": [
-                                "^org\\.eclipse\\.platform\\.ide$",
-                                "^org\\.jkiss\\.dbeaver\\.core\\.product$"
-                            ]
-                        },
-                        {
-                            "type": "input_source_if",
-                            "input_sources": [
-                                {
-                                    "language": "^ko$",
-                                    "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "variable_if",
-                            "name": "eclipse_kor_input",
-                            "value": 1
-                        }
-                    ],
-                    "to": [
-                        {
-                            "key_code": "escape"
-                        },
-                        {
-                            "sticky_modifier": {
-                                "left_shift": "on"
-                            }
-                        },
-                        {
-                            "key_code": "delete_or_backspace"
-                        },
-                        {
-                            "set_variable": {
-                                "name": "eclipse_kor_input",
-                                "value": 0
-                            }
-                        }
-                    ],
-                    "parameters": {
-                        "basic.to_if_held_down_threshold_milliseconds": 200
-                    },
-                    "to_if_held_down": [
-                        {
-                            "key_code": "delete_or_backspace"
-                        }
-                    ]
-                },
-                {
-                    "type": "basic",
-                    "from": {
-                        "key_code": "delete_or_backspace",
-                        "modifiers": {
-                            "optional": ["any"]
-                        }
-                    },
-                    "conditions": [
-                        {
-                            "type": "frontmost_application_if",
-                            "bundle_identifiers": [
-                                "^org\\.eclipse\\.platform\\.ide$",
-                                "^org\\.jkiss\\.dbeaver\\.core\\.product$"
-                            ]
-                        },
-                        {
-                            "type": "input_source_if",
-                            "input_sources": [
-                                {
-                                    "language": "^ko$",
-                                    "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "variable_if",
-                            "name": "eclipse_kor_input",
-                            "value": 1
-                        }
-                    ],
-                    "to": [
-                        {
-                            "key_code": "spacebar"
-                        },
-                        {
-                            "key_code": "delete_or_backspace"
-                        },
-                        {
-                            "key_code": "delete_or_backspace"
-                        },
-                        {
-                            "set_variable": {
-                                "name": "eclipse_kor_input",
-                                "value": 0
-                            }
-                        }
-                    ],
-                    "parameters": {
-                        "basic.to_if_held_down_threshold_milliseconds": 200
-                    },
-                    "to_if_held_down": [
-                        {
-                            "key_code": "delete_or_backspace"
                         }
                     ]
                 },
@@ -4252,6 +3762,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         },
@@ -4263,7 +3777,10 @@
                     ],
                     "to": [
                         {
-                            "key_code": "escape"
+                            "key_code": "spacebar"
+                        },
+                        {
+                            "key_code": "delete_or_backspace"
                         },
                         {
                             "sticky_modifier": {
@@ -4311,6 +3828,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         },
@@ -4369,6 +3890,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         },
@@ -4380,7 +3905,10 @@
                     ],
                     "to": [
                         {
-                            "key_code": "escape"
+                            "key_code": "spacebar"
+                        },
+                        {
+                            "key_code": "delete_or_backspace"
                         },
                         {
                             "sticky_modifier": {
@@ -4428,6 +3956,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         },
@@ -4486,6 +4018,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         },
@@ -4497,7 +4033,10 @@
                     ],
                     "to": [
                         {
-                            "key_code": "escape"
+                            "key_code": "spacebar"
+                        },
+                        {
+                            "key_code": "delete_or_backspace"
                         },
                         {
                             "sticky_modifier": {
@@ -4545,6 +4084,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         },
@@ -4603,6 +4146,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         },
@@ -4614,7 +4161,10 @@
                     ],
                     "to": [
                         {
-                            "key_code": "escape"
+                            "key_code": "spacebar"
+                        },
+                        {
+                            "key_code": "delete_or_backspace"
                         },
                         {
                             "sticky_modifier": {
@@ -4662,6 +4212,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         },
@@ -4694,6 +4248,538 @@
                     "to_if_held_down": [
                         {
                             "key_code": "tab"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "left_arrow",
+                        "modifiers": {
+                            "mandatory": ["shift"],
+                            "optional": ["any"]
+                        }
+                    },
+                    "conditions": [
+                        {
+                            "type": "frontmost_application_if",
+                            "bundle_identifiers": [
+                                "^org\\.eclipse\\.platform\\.ide$",
+                                "^org\\.jkiss\\.dbeaver\\.core\\.product$"
+                            ]
+                        },
+                        {
+                            "type": "input_source_if",
+                            "input_sources": [
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "variable_if",
+                            "name": "eclipse_kor_input",
+                            "value": 1
+                        }
+                    ],
+                    "to": [
+                        {
+                            "key_code": "spacebar"
+                        },
+                        {
+                            "key_code": "delete_or_backspace"
+                        },
+                        {
+                            "sticky_modifier": {
+                                "left_shift": "toggle"
+                            }
+                        },
+                        {
+                            "key_code": "left_arrow"
+                        },
+                        {
+                            "set_variable": {
+                                "name": "eclipse_kor_input",
+                                "value": 0
+                            }
+                        }
+                    ],
+                    "parameters": {
+                        "basic.to_if_held_down_threshold_milliseconds": 200
+                    },
+                    "to_if_held_down": [
+                        {
+                            "sticky_modifier": {
+                                "left_shift": "toggle"
+                            }
+                        },
+                        {
+                            "key_code": "left_arrow"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "left_arrow",
+                        "modifiers": {
+                            "optional": ["any"]
+                        }
+                    },
+                    "conditions": [
+                        {
+                            "type": "frontmost_application_if",
+                            "bundle_identifiers": [
+                                "^org\\.eclipse\\.platform\\.ide$",
+                                "^org\\.jkiss\\.dbeaver\\.core\\.product$"
+                            ]
+                        },
+                        {
+                            "type": "input_source_if",
+                            "input_sources": [
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "variable_if",
+                            "name": "eclipse_kor_input",
+                            "value": 1
+                        }
+                    ],
+                    "to": [
+                        {
+                            "key_code": "spacebar"
+                        },
+                        {
+                            "key_code": "delete_or_backspace"
+                        },
+                        {
+                            "key_code": "left_arrow"
+                        },
+                        {
+                            "set_variable": {
+                                "name": "eclipse_kor_input",
+                                "value": 0
+                            }
+                        }
+                    ],
+                    "parameters": {
+                        "basic.to_if_held_down_threshold_milliseconds": 200
+                    },
+                    "to_if_held_down": [
+                        {
+                            "key_code": "left_arrow"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "up_arrow",
+                        "modifiers": {
+                            "mandatory": ["shift"],
+                            "optional": ["any"]
+                        }
+                    },
+                    "conditions": [
+                        {
+                            "type": "frontmost_application_if",
+                            "bundle_identifiers": [
+                                "^org\\.eclipse\\.platform\\.ide$",
+                                "^org\\.jkiss\\.dbeaver\\.core\\.product$"
+                            ]
+                        },
+                        {
+                            "type": "input_source_if",
+                            "input_sources": [
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "variable_if",
+                            "name": "eclipse_kor_input",
+                            "value": 1
+                        }
+                    ],
+                    "to": [
+                        {
+                            "key_code": "spacebar"
+                        },
+                        {
+                            "key_code": "delete_or_backspace"
+                        },
+                        {
+                            "sticky_modifier": {
+                                "left_shift": "toggle"
+                            }
+                        },
+                        {
+                            "key_code": "up_arrow"
+                        },
+                        {
+                            "set_variable": {
+                                "name": "eclipse_kor_input",
+                                "value": 0
+                            }
+                        }
+                    ],
+                    "parameters": {
+                        "basic.to_if_held_down_threshold_milliseconds": 200
+                    },
+                    "to_if_held_down": [
+                        {
+                            "sticky_modifier": {
+                                "left_shift": "toggle"
+                            }
+                        },
+                        {
+                            "key_code": "up_arrow"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "up_arrow",
+                        "modifiers": {
+                            "optional": ["any"]
+                        }
+                    },
+                    "conditions": [
+                        {
+                            "type": "frontmost_application_if",
+                            "bundle_identifiers": [
+                                "^org\\.eclipse\\.platform\\.ide$",
+                                "^org\\.jkiss\\.dbeaver\\.core\\.product$"
+                            ]
+                        },
+                        {
+                            "type": "input_source_if",
+                            "input_sources": [
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "variable_if",
+                            "name": "eclipse_kor_input",
+                            "value": 1
+                        }
+                    ],
+                    "to": [
+                        {
+                            "key_code": "spacebar"
+                        },
+                        {
+                            "key_code": "delete_or_backspace"
+                        },
+                        {
+                            "key_code": "up_arrow"
+                        },
+                        {
+                            "set_variable": {
+                                "name": "eclipse_kor_input",
+                                "value": 0
+                            }
+                        }
+                    ],
+                    "parameters": {
+                        "basic.to_if_held_down_threshold_milliseconds": 200
+                    },
+                    "to_if_held_down": [
+                        {
+                            "key_code": "up_arrow"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "right_arrow",
+                        "modifiers": {
+                            "mandatory": ["shift"],
+                            "optional": ["any"]
+                        }
+                    },
+                    "conditions": [
+                        {
+                            "type": "frontmost_application_if",
+                            "bundle_identifiers": [
+                                "^org\\.eclipse\\.platform\\.ide$",
+                                "^org\\.jkiss\\.dbeaver\\.core\\.product$"
+                            ]
+                        },
+                        {
+                            "type": "input_source_if",
+                            "input_sources": [
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "variable_if",
+                            "name": "eclipse_kor_input",
+                            "value": 1
+                        }
+                    ],
+                    "to": [
+                        {
+                            "key_code": "spacebar"
+                        },
+                        {
+                            "key_code": "delete_or_backspace"
+                        },
+                        {
+                            "sticky_modifier": {
+                                "left_shift": "toggle"
+                            }
+                        },
+                        {
+                            "key_code": "right_arrow"
+                        },
+                        {
+                            "set_variable": {
+                                "name": "eclipse_kor_input",
+                                "value": 0
+                            }
+                        }
+                    ],
+                    "parameters": {
+                        "basic.to_if_held_down_threshold_milliseconds": 200
+                    },
+                    "to_if_held_down": [
+                        {
+                            "sticky_modifier": {
+                                "left_shift": "toggle"
+                            }
+                        },
+                        {
+                            "key_code": "right_arrow"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "right_arrow",
+                        "modifiers": {
+                            "optional": ["any"]
+                        }
+                    },
+                    "conditions": [
+                        {
+                            "type": "frontmost_application_if",
+                            "bundle_identifiers": [
+                                "^org\\.eclipse\\.platform\\.ide$",
+                                "^org\\.jkiss\\.dbeaver\\.core\\.product$"
+                            ]
+                        },
+                        {
+                            "type": "input_source_if",
+                            "input_sources": [
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "variable_if",
+                            "name": "eclipse_kor_input",
+                            "value": 1
+                        }
+                    ],
+                    "to": [
+                        {
+                            "key_code": "spacebar"
+                        },
+                        {
+                            "key_code": "delete_or_backspace"
+                        },
+                        {
+                            "key_code": "right_arrow"
+                        },
+                        {
+                            "set_variable": {
+                                "name": "eclipse_kor_input",
+                                "value": 0
+                            }
+                        }
+                    ],
+                    "parameters": {
+                        "basic.to_if_held_down_threshold_milliseconds": 200
+                    },
+                    "to_if_held_down": [
+                        {
+                            "key_code": "right_arrow"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "down_arrow",
+                        "modifiers": {
+                            "mandatory": ["shift"],
+                            "optional": ["any"]
+                        }
+                    },
+                    "conditions": [
+                        {
+                            "type": "frontmost_application_if",
+                            "bundle_identifiers": [
+                                "^org\\.eclipse\\.platform\\.ide$",
+                                "^org\\.jkiss\\.dbeaver\\.core\\.product$"
+                            ]
+                        },
+                        {
+                            "type": "input_source_if",
+                            "input_sources": [
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "variable_if",
+                            "name": "eclipse_kor_input",
+                            "value": 1
+                        }
+                    ],
+                    "to": [
+                        {
+                            "key_code": "spacebar"
+                        },
+                        {
+                            "key_code": "delete_or_backspace"
+                        },
+                        {
+                            "sticky_modifier": {
+                                "left_shift": "toggle"
+                            }
+                        },
+                        {
+                            "key_code": "down_arrow"
+                        },
+                        {
+                            "set_variable": {
+                                "name": "eclipse_kor_input",
+                                "value": 0
+                            }
+                        }
+                    ],
+                    "parameters": {
+                        "basic.to_if_held_down_threshold_milliseconds": 200
+                    },
+                    "to_if_held_down": [
+                        {
+                            "sticky_modifier": {
+                                "left_shift": "toggle"
+                            }
+                        },
+                        {
+                            "key_code": "down_arrow"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "down_arrow",
+                        "modifiers": {
+                            "optional": ["any"]
+                        }
+                    },
+                    "conditions": [
+                        {
+                            "type": "frontmost_application_if",
+                            "bundle_identifiers": [
+                                "^org\\.eclipse\\.platform\\.ide$",
+                                "^org\\.jkiss\\.dbeaver\\.core\\.product$"
+                            ]
+                        },
+                        {
+                            "type": "input_source_if",
+                            "input_sources": [
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "variable_if",
+                            "name": "eclipse_kor_input",
+                            "value": 1
+                        }
+                    ],
+                    "to": [
+                        {
+                            "key_code": "spacebar"
+                        },
+                        {
+                            "key_code": "delete_or_backspace"
+                        },
+                        {
+                            "key_code": "down_arrow"
+                        },
+                        {
+                            "set_variable": {
+                                "name": "eclipse_kor_input",
+                                "value": 0
+                            }
+                        }
+                    ],
+                    "parameters": {
+                        "basic.to_if_held_down_threshold_milliseconds": 200
+                    },
+                    "to_if_held_down": [
+                        {
+                            "key_code": "down_arrow"
                         }
                     ]
                 },
@@ -4716,6 +4802,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         },
@@ -4770,6 +4860,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         },
@@ -4824,6 +4918,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         },
@@ -4878,6 +4976,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         },
@@ -4932,6 +5034,10 @@
                                 {
                                     "language": "^ko$",
                                     "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
                                 }
                             ]
                         },
@@ -4964,6 +5070,130 @@
                     "to_if_held_down": [
                         {
                             "pointing_button": "button5"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "key_name",
+                        "modifiers": {
+                            "mandatory": ["shift"],
+                            "optional": ["any"]
+                        }
+                    },
+                    "conditions": [
+                        {
+                            "type": "frontmost_application_if",
+                            "bundle_identifiers": [
+                                "^org\\.eclipse\\.platform\\.ide$",
+                                "^org\\.jkiss\\.dbeaver\\.core\\.product$"
+                            ]
+                        },
+                        {
+                            "type": "input_source_if",
+                            "input_sources": [
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                },
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^org\\.youknowone\\.inputmethod\\.Gureum.han2$"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "variable_if",
+                            "name": "eclipse_kor_input",
+                            "value": 1
+                        }
+                    ],
+                    "to": [
+                        {
+                            "key_code": "spacebar"
+                        },
+                        {
+                            "key_code": "delete_or_backspace"
+                        },
+                        {
+                            "sticky_modifier": {
+                                "left_shift": "on"
+                            }
+                        },
+                        {
+                            "key_code": "key_name"
+                        },
+                        {
+                            "set_variable": {
+                                "name": "eclipse_kor_input",
+                                "value": 0
+                            }
+                        }
+                    ],
+                    "parameters": {
+                        "basic.to_if_held_down_threshold_milliseconds": 200
+                    },
+                    "to_if_held_down": [
+                        {
+                            "key_code": "key_name"
+                        }
+                    ]
+                },
+                {
+                    "type": "basic",
+                    "from": {
+                        "key_code": "key_name",
+                        "modifiers": {
+                            "optional": ["any"]
+                        }
+                    },
+                    "conditions": [
+                        {
+                            "type": "frontmost_application_if",
+                            "bundle_identifiers": [
+                                "^org\\.eclipse\\.platform\\.ide$",
+                                "^org\\.jkiss\\.dbeaver\\.core\\.product$"
+                            ]
+                        },
+                        {
+                            "type": "input_source_if",
+                            "input_sources": [
+                                {
+                                    "language": "^ko$",
+                                    "input_source_id": "^com\\.apple\\.inputmethod\\.Korean\\.2SetKorean$"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "variable_if",
+                            "name": "eclipse_kor_input",
+                            "value": 1
+                        }
+                    ],
+                    "to": [
+                        {
+                            "key_code": "spacebar"
+                        },
+                        {
+                            "key_code": "delete_or_backspace"
+                        },
+                        {
+                            "key_code": "key_name"
+                        },
+                        {
+                            "set_variable": {
+                                "name": "eclipse_kor_input",
+                                "value": 0
+                            }
+                        }
+                    ],
+                    "parameters": {
+                        "basic.to_if_held_down_threshold_milliseconds": 200
+                    },
+                    "to_if_held_down": [
+                        {
+                            "key_code": "key_name"
                         }
                     ]
                 },

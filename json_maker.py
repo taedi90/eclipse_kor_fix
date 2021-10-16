@@ -18,8 +18,9 @@ escape_keys = ['1','2','3','4','5','6','7','8','9','0',
                 'quote','comma','period','slash','spacebar']
 
 # 한글 입력 직후 영향을 주거나 받는 키
-affected_keys = ['return_or_enter','delete_or_backspace','left_control',
+affected_keys = ['return_or_enter','left_control',
                     'left_option','left_command','tab']
+affected_backspace = ['delete_or_backspace'] # 백스페이스는 구름 입력기 관련하여 따로 지정
 affected_arrows = ['left_arrow','up_arrow','right_arrow','down_arrow']
 affected_buttons = ['button1','button2','button3','button4','button5']
 
@@ -45,14 +46,16 @@ for i in eng_keys:
 for i in escape_keys:
     temp_body.append(fragments.escape.replace('key_name', i))
     
-for i in affected_arrows:
-    temp_body.append(fragments.affected_arrow.replace('key_name', i))
-
 for i in affected_keys:
     temp_body.append(fragments.affected_key.replace('key_name', i))
 
+for i in affected_arrows:
+    temp_body.append(fragments.affected_arrow.replace('key_name', i))
+
 for i in affected_buttons:
     temp_body.append(fragments.affected_button.replace('key_name', i))
+    
+temp_body.append(fragments.backspace) # r_cmd 버튼 한영키로 사용하지 않을 경우 설정안해도 됨
     
 temp_body.append(fragments.rcmd_to_koreng) # r_cmd 버튼 한영키로 사용하지 않을 경우 설정안해도 됨
 
